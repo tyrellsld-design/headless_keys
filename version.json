@@ -1,7 +1,7 @@
 {
  "version": "2.0 (13 Oct 2026)",
- "built": 1791868681,
+ "built": 1791896778,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Dark title bar that matches the tool, sidebar fits laptop screens, barbed wire wraps sit on the gun",
- "sig": "bd080c13d72b0b0a38fe70491379874c3948fb9a518bd2f541b153cf91a8dd159c3ee1a2baa3332f31fa20c6265c4bb5f50e7ecc5d90f86c820fd335c8a2fb0c"
+ "notes": "Extras rebuilt: real-size suppressors, scopes, red dots and mags; nothing inside the gun or stacked; new Discord link",
+ "sig": "ea1df7a6b04da635426e684e1945806b9381d8df624d70290c0636a013bf6847f6227654407e28e107a6fd0d04343fcba176cf20459836745720ac501e9efb0c"
 }
