@@ -1,7 +1,7 @@
 {
  "version": "2.0 (13 Oct 2026)",
- "built": 1791854203,
+ "built": 1791859030,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Picture to 3D on the HEADLESS cloud AI (no daily limit), 23 charm shapes, fonts for 3D text, chain wraps that sit on the gun, fast Change colour (also in the Texture Editor), smooth 3D preview",
- "sig": "15637aa0930cb0c6456e5a3eb5f581cd3ba7bc2003233db8ea36d10d32fd5386893182ccfef5a644ac477d5fb78c9c2ee6537f35a734e6bde94971a7c42c570c"
+ "notes": "Picture to 3D: sharper models from your own cloud AI, screenshots work (no more frame round the gun), still-working updates while the GPU wakes",
+ "sig": "4f88bf8f00540d0d1f9300790db4124733b2d5b10bdbd736fcef93d101a4ec8ee05f34d7c7be6f46e1acdaec94c21440a5193254584efe514a1c958a7bf3fe06"
 }
