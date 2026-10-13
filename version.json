@@ -2,6 +2,6 @@
  "version": "2.0 (13 Oct 2026)",
  "built": 1791924588,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Fixes: the crash warning shows again, sending to the test server no longer freezes the tool, autosave only offers work for the same gun. New versions are posted in the Discord #download channel.",
- "sig": "bc7231f66c020e3680de000b5fe8ba1f299e52f7f4fea965e0e63222e5ed2b172cb3b637ecec9f36feb3cc2e892e2502d06547163e5826523e555e05432ad407"
+ "notes": "Texture Editor opens weapon packs made in Blender: the whole gun shows (not just one piece) and every part has its own texture. Export always saves your last edit.",
+ "sig": "1f79fe36d29da1a61ff785afd693e04e3d4ce398b0b0bef09f191691daf922aad20fcbb3b07556a4d8093c0310ca08d7df894495ac1fc21edb2a2b9536eb030a"
 }
