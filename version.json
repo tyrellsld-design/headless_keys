@@ -1,7 +1,7 @@
 {
  "version": "2.0 (13 Oct 2026)",
- "built": 1791924588,
+ "built": 1791930848,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
  "notes": "Texture Editor opens weapon packs made in Blender: the whole gun shows (not just one piece) and every part has its own texture. Export always saves your last edit.",
- "sig": "1f79fe36d29da1a61ff785afd693e04e3d4ce398b0b0bef09f191691daf922aad20fcbb3b07556a4d8093c0310ca08d7df894495ac1fc21edb2a2b9536eb030a"
+ "sig": "eb96eefe327efa6bc0dc619173ef42c1f0f1566916ddc1c58f2671e2d162633f5c299e586caff179d850fa6d2722d01d0d7b073ecf37496a2da2b60929d05403"
 }
