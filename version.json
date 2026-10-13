@@ -1,7 +1,7 @@
 {
  "version": "2.0 (13 Oct 2026)",
- "built": 1791896778,
+ "built": 1791913582,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Extras rebuilt: real-size suppressors, scopes, red dots and mags; nothing inside the gun or stacked; new Discord link",
- "sig": "ea1df7a6b04da635426e684e1945806b9381d8df624d70290c0636a013bf6847f6227654407e28e107a6fd0d04343fcba176cf20459836745720ac501e9efb0c"
+ "notes": "New: skin packs, showcase videos, colour packs, patterns (camo, carbon...), autosave, Community likes and trending, one-click test server reload",
+ "sig": "6668bc4b6ed8cd30c9352f4b6323d4603d4cebfd573664abf6b2545e46e69be162becf0fb71f171f97eda8231e16d87ac2d71359329d4ffdfef52ab46ffa8e09"
 }
