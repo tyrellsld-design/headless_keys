@@ -1,7 +1,7 @@
 {
- "version": "2.0 (12 Oct 2026)",
- "built": 1791841451,
+ "version": "2.0 (13 Oct 2026)",
+ "built": 1791854203,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Chains, wire, barbed wire and rope wrapped round any part; wireframe look (whole gun or one part); laser beam; glitter paint; Ask AI writes names/text on the part you say (\"KYLE on the magazine\"); Ask AI can start from real guns; Clean shape in the Export Centre; this update notice.",
- "sig": "8ce120d036ab4393a41c9316e3fa4708d18de47a3f992fdbae1f0fe46f61581311af5fba611052adea8a132844c230709b07ce124cb1fe1f61c725c3f9326a00"
+ "notes": "Picture to 3D on the HEADLESS cloud AI (no daily limit), 23 charm shapes, fonts for 3D text, chain wraps that sit on the gun, fast Change colour (also in the Texture Editor), smooth 3D preview",
+ "sig": "15637aa0930cb0c6456e5a3eb5f581cd3ba7bc2003233db8ea36d10d32fd5386893182ccfef5a644ac477d5fb78c9c2ee6537f35a734e6bde94971a7c42c570c"
 }
