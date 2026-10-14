@@ -1,7 +1,7 @@
 {
  "version": "2.0 (14 Oct 2026)",
- "built": 1791938535,
+ "built": 1791953776,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Security hardening: a switched-off key stays off, the PC clock can't revive a key, a fresh key list once every 14 days (offline in between), safer handling of shared files, and a release built from a pinned, clean environment. The Texture Editor and Community Library fixes from 13 Oct are included.",
- "sig": "9850d616899e3e410de70ee176cce8eb5efbb2e8c31ece988bece023efdf9ad77483c107dd16e6772b3b5a9f613e1b7a206116277fa13dc604b0f5fa299b1d02"
+ "notes": "Premium Models tab (ask HEADLESS to upgrade your key), a texture library with six picture packs, 50 charms with their own chain colour, a cross extra, 25 patterns, UNDO EXTRA in the Texture Editor, a proper drum mag, layer order controls, and library fixes.",
+ "sig": "08dc5c752a7cb0f669f635cda60b663fa261d97cf622ddb27990f84eb476c0c5673f6678594c88730a73c0c96913005fac1a02d8142aa7fa2de044493114030b"
 }
