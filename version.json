@@ -1,7 +1,7 @@
 {
  "version": "2.0 (14 Oct 2026)",
- "built": 1791933500,
+ "built": 1791938535,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Texture Editor: packs made in Blender show the whole gun with every part's own texture, in the GPU view too. Community Library: the trending section slides open or shut when you click it.",
- "sig": "75595e0692c9b0ae814370f39098b1843555e0719ccd63f9571694fab180091d257068bbb2b5fe99d0866b7dfd52da788d34be092a5669fc275c5d7dd016570a"
+ "notes": "Security hardening: a switched-off key stays off, the PC clock can't revive a key, a fresh key list once every 14 days (offline in between), safer handling of shared files, and a release built from a pinned, clean environment. The Texture Editor and Community Library fixes from 13 Oct are included.",
+ "sig": "9850d616899e3e410de70ee176cce8eb5efbb2e8c31ece988bece023efdf9ad77483c107dd16e6772b3b5a9f613e1b7a206116277fa13dc604b0f5fa299b1d02"
 }
