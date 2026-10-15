@@ -1,7 +1,7 @@
 {
  "version": "2.0 (15 Oct 2026)",
- "built": 1792102239,
+ "built": 1792104596,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Much faster: the tool now comes as a folder and opens in about a second (it used to take 8). Looks no longer freeze the window. Unzip the whole HEADLESS TOOL folder where your old exe was - your settings, key and guns carry over.",
- "sig": "78301aa2df2857a45b30f8b7bae59cd7fa906cad0f948a786a0dd217eb07b22feb81b4490c0005f9dfa3cb7d19bd6e6c0b44e0d7e7a493f57a052d2a4be6b106"
+ "notes": "VVS and Glitter look right in game now: VVS is small sparkly white-ice stones like a real pave plate (no more honeycomb), and Glitter has real flakes instead of grey mush. Plus the folder version that opens in about a second.",
+ "sig": "8c04077941ffc28d161fa136de29bc83fae787117e4c61683cbfa64097cd2634dacf1486bed3d252f9dc27667e3e81bacf93883796c63e9e145ca32e5ec0ad00"
 }
