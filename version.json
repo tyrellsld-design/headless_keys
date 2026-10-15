@@ -1,7 +1,7 @@
 {
  "version": "2.0 (15 Oct 2026)",
- "built": 1792038550,
+ "built": 1792102239,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "In-game shine is softer and clearer (stones stay crisp instead of glowing), and scooters, bikes and other non-gun models now face forward and sit level in your hand. Plus everything from earlier today: picture and emoji charms, VVS / Crushed Ice saving properly on big guns.",
- "sig": "18d6322d05b901de7b649cfe1b3f1d3e4e4512e0d0cf354914b0d4155ab5b71cee6337c4485bbc8fb776daf2170124636c254783567cccc918863749df9d5f04"
+ "notes": "Much faster: the tool now comes as a folder and opens in about a second (it used to take 8). Looks no longer freeze the window. Unzip the whole HEADLESS TOOL folder where your old exe was - your settings, key and guns carry over.",
+ "sig": "78301aa2df2857a45b30f8b7bae59cd7fa906cad0f948a786a0dd217eb07b22feb81b4490c0005f9dfa3cb7d19bd6e6c0b44e0d7e7a493f57a052d2a4be6b106"
 }
