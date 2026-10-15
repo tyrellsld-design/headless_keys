@@ -1,7 +1,7 @@
 {
  "version": "2.0 (15 Oct 2026)",
- "built": 1792032689,
+ "built": 1792038550,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "Picture charms: turn any emoji or picture into a 3D charm (200 emoji to pick from, and your own charms kept for reuse). VVS, Crushed Ice and Glitter now save properly on big guns and get In-game shine so the stones catch the light in game. Scooters and other non-gun models no longer come out upside down. Plus fixes.",
- "sig": "9905be40349fd6dc77d04d578b297c84d11cecd67929463a4931f8b86be9ab297aa1e792aed104cc05a621999dde4ac9cf8b53aeeb8ee6ed0cd3d5db7b969806"
+ "notes": "In-game shine is softer and clearer (stones stay crisp instead of glowing), and scooters, bikes and other non-gun models now face forward and sit level in your hand. Plus everything from earlier today: picture and emoji charms, VVS / Crushed Ice saving properly on big guns.",
+ "sig": "18d6322d05b901de7b649cfe1b3f1d3e4e4512e0d0cf354914b0d4155ab5b71cee6337c4485bbc8fb776daf2170124636c254783567cccc918863749df9d5f04"
 }
