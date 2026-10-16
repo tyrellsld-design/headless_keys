@@ -1,7 +1,7 @@
 {
- "version": "2.0 (16 Oct 2026)",
- "built": 1792115379,
+ "version": "2.0 (17 Oct 2026)",
+ "built": 1792191765,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "New Studio look (default); single portable exe; big RPFs (over 16 MB) open and save; IN GAME shine/chrome/glow finishes; centred extended mag; wraps down the mag; sharper VVS and Glitter",
- "sig": "968c9395dab2328fe679af59968bde5796a6a8523d7bed3c6252320fa33e9066c2ae9c680f4eb4ec5d3a6821d26f0fab73249d59e21818688e50e858d5dc470a"
+ "notes": "Each part its own colour; mags shown in the right place; much faster editor; Ask AI reads light/dark shades and two colours; extras fit (mag, smooth 3D text, charms, chains); hide or keep the game's own attachments",
+ "sig": "194e674a4fd17e9e265a1a2c63b9cf1456fdb0564e130390469c749f53bd5844d0b75e79dcc5d4b8a251eb6ce3191d1c3a0f396172eb3e601db18a1fb68dc701"
 }
