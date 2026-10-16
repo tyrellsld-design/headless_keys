@@ -1,7 +1,7 @@
 {
- "version": "2.0 (15 Oct 2026)",
- "built": 1792104596,
+ "version": "2.0 (16 Oct 2026)",
+ "built": 1792115379,
  "url": "https://github.com/tyrellsld-design/headless_keys/releases/download/download/HEADLESS_TOOL_Customer_Version.zip",
- "notes": "VVS and Glitter look right in game now: VVS is small sparkly white-ice stones like a real pave plate (no more honeycomb), and Glitter has real flakes instead of grey mush. Plus the folder version that opens in about a second.",
- "sig": "8c04077941ffc28d161fa136de29bc83fae787117e4c61683cbfa64097cd2634dacf1486bed3d252f9dc27667e3e81bacf93883796c63e9e145ca32e5ec0ad00"
+ "notes": "New Studio look (default); single portable exe; big RPFs (over 16 MB) open and save; IN GAME shine/chrome/glow finishes; centred extended mag; wraps down the mag; sharper VVS and Glitter",
+ "sig": "968c9395dab2328fe679af59968bde5796a6a8523d7bed3c6252320fa33e9066c2ae9c680f4eb4ec5d3a6821d26f0fab73249d59e21818688e50e858d5dc470a"
 }
